@@ -156,6 +156,7 @@ wf-dock (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Very simpl
 * wf-panel (part of [wf-shell](https://github.com/WayfireWM/wf-shell)) - Panel with support for application launchers
 * [YaGoStatus](https://github.com/denysvitali/yagostatus) - Yet Another i3status replacement
 * [yambar](https://gitlab.com/dnkl/yambar) - Modular status panel for X11 and Wayland, inspired by polybar
+* [aifuel](https://github.com/robertogogoni/aifuel) - Real-time AI provider usage monitor for waybar with Chrome extension, bubbletea TUI dashboard, and Catppuccin theme
 
 ## Tools
 
